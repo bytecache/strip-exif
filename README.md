@@ -1,14 +1,14 @@
-#Strip EXIF
+# Strip EXIF
 
 Removes EXIF data from jpeg image files.
 
-##Requirements
+## Requirements
 * See requirements.txt for more details
 
-##Description
+## Description
 This script will remove EXIF data from jpeg files. This may be desirable when uploading images to the internet where you do not want someone to see GPS or other information
 
-##Usage
+## Usage
 ~~~~
 usage: strip-exif.py [/some/dir - OPTIONAL]
 ~~~~
